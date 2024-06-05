@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://eunheechang.info/al-folio/sitemap.xml
+Sitemap: https://eunheechang.info/sitemap.xml
